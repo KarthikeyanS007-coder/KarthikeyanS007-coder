@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthikeyan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20%26%20Backend%20Engineer%20%7C%20Python%20%2B%20SQL%20%2B%20Automation&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Karthikeyan%20S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20%26%20Backend%20Engineer%20%7C%20Python%20%2B%20SQL%20%2B%20Automation&amp;descAlignY=62&amp;descSize=16" />
 
 <a href="https://github.com/aswath_tamilan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+%26+Data+Engineer;Python+%7C+SQL+%7C+Django+%7C+FastAPI;Building+Scalable+Data+Pipelines;Automation+%2B+System+Optimization+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Backend+%26+Data+Engineer;Python+%7C+SQL+%7C+Django+%7C+FastAPI;Building+Scalable+Data+Pipelines;Automation+%2B+System+Optimization+Enthusiast" />
 </a>
 
 </div>
@@ -65,8 +65,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" />
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0D1117&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aswath_tamilan&amp;theme=tokyonight&amp;background=0D1117&amp;hide_border=true" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;hide_border=true" />
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" />
 
 </div>
 
@@ -184,6 +184,6 @@ M. Kumarasamy College of Engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aswath_tamilan&color=70A5FD&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
 
 </div>
