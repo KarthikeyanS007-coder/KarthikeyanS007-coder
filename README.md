@@ -10,37 +10,17 @@
 
 ---
 
-### 🧾 About Me — in code
+### 🧾 About Me
 
-```python
-class Karthikeyan:
-    def __init__(self):
-        self.name = "Karthikeyan S"
-        self.location = "Dharmpuri, Tamil Nadu, India"
-        self.role = "Data & Backend Engineer"
-        self.degree = "B.E. Computer Science and Engineering"
-        self.college = "M. Kumarasamy College of Engineering"
-        self.experience = "2+ years"
-
-        self.stack = {
-            "languages": ["Python", "SQL"],
-            "frameworks": ["Django", "FastAPI"],
-            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Power BI", "Excel"],
-            "databases": ["MySQL"],
-            "concepts": ["CI/CD Fundamentals", "DevOps Practices",
-                          "Data Pipelines", "Automation", "System Optimization"]
-        }
-
-        self.currently_learning = ["Advanced DevOps", "Cloud Data Engineering", "MLOps"]
-        self.fun_fact = "I optimize SQL queries for fun ⚡"
-
-    def motto(self):
-        return "Clean data. Reliable systems. Efficient code."
-
-
-me = Karthikeyan()
-print(me.motto())
-```
+- 🎯 **Role:** Data & Backend Engineer with 2+ years of experience
+- 📍 **Location:** Dharmpuri, Tamil Nadu, India
+- 🎓 **Education:** B.E. Computer Science and Engineering, M. Kumarasamy College of Engineering
+- 🧰 **Tech Stack:** Python, SQL, Django, FastAPI, MySQL
+- 📊 **Data Tools:** Pandas, NumPy, Matplotlib, Power BI, Excel
+- ⚙️ **Concepts:** CI/CD Fundamentals, DevOps Practices, Data Pipelines, Automation, System Optimization
+- 📚 **Currently Learning:** Advanced DevOps, Cloud Data Engineering, MLOps
+- ⚡ **Fun Fact:** I optimize SQL queries for fun
+- 💡 **Motto:** *Clean data. Reliable systems. Efficient code.*
 
 ---
 
